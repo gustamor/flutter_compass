@@ -26,6 +26,7 @@ android {
 
     defaultConfig {
         minSdkVersion 20
+        namespace "com.hemanthraj.fluttercompass"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     lintOptions {
